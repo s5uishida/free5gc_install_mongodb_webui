@@ -1,6 +1,7 @@
 # Install MongoDB 7.0 and free5GC WebUI
 The process for the following OS is shown here.
 
+- Ubuntu 22.04
 - Ubuntu 24.04
 
 ---
