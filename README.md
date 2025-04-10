@@ -43,8 +43,7 @@ For reference, I wrote the steps to install v4.4.18 on Ubuntu 20.04 on Raspberry
 
 ## Install free5GC WebUI
 
-It is assumed that MongoDB 8.0 and [Go](https://free5gc.org/guide/3-install-free5gc/) has been installed already.
-
+It is assumed that MongoDB 8.0 and [Go](https://free5gc.org/guide/3-install-free5gc/) has been installed already.  
 First, install Node.js, see [here](https://github.com/nodesource/distributions).
 ```
 # apt install -y ca-certificates curl gnupg
