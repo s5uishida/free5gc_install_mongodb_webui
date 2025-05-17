@@ -89,7 +89,12 @@ If necessary, set the IP address and port to bind as follows (ex. `192.168.0.141
    billingServer:
      enable: true
 ```
-
+And, login to Web console as follows and register subscriber information.
+```
+http://<IP address of Web console>:5000/
+username: admin
+password: free5gc
+```
 ---
 <a id="changelog"></a>
 
